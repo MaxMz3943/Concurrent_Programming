@@ -42,7 +42,7 @@ class Hilo3 implements Runnable{
         System.out.println("Este es el hilo 3");
     }
 }
-public class Hilos{
+public class Controlled_Chaos_Threads{
     public static void main(String [] args){
         System.out.println("Hola");
 
